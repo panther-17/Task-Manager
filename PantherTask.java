@@ -92,7 +92,6 @@ public class TaskManager {
     while (true) {
         System.out.println("\n ");
         System.out.println("\nWelcome to panther Task Manager");
-        System.out.println("      by Ramon Araujo ;)");
         System.out.println("\n ---------- Menu: ------------");
         System.out.println("\n ");
         System.out.println("1. Add Task");
